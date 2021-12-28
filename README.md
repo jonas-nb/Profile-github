@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-Hi there, I'm a front-end developer from Brazil, and i really love doing my projects with react and typescript :sparkling_heart:.
+Hi there, I'm a front-end developer from Brazil, and i really love doing my projects with react and javascript :sparkling_heart:.
 
 ## Quick overview
 
