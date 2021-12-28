@@ -6,7 +6,7 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 ## 📈 Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thiago-spart&show_icons=true&count_private=true&theme=midnight-purple" alt="Thiago Spart's Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonas-nb&show_icons=true&count_private=true&theme=midnight-purple" alt="Jonas Batista" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
 
