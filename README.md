@@ -13,7 +13,7 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 ## My contribution streak 🔥
 
 <p align="center">
-  <a href="https://github.com/Thiago-spart/github-readme-streak-stats">
+  <a href="https://github.com/jonas-nb/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-spart&theme=midnight-purple#version3" alt="Thiago Spart's streak stats"/>
   </a>
 </p>
