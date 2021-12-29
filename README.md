@@ -8,13 +8,13 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonas-nb&show_icons=true&count_private=true&theme=midnight-purple" alt="Jonas Batista" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-nb&layout=compact&theme=midnight-purple" alt="Jonas Batista most used languages" />
 
 ## My contribution streak 🔥
 
 <p align="center">
   <a href="https://github.com/jonas-nb/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-spart&theme=midnight-purple#version3" alt="Thiago Spart's streak stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-nb&theme=midnight-purple#version3" alt="Jonas Batista streak stats"/>
   </a>
 </p>
 <details>
@@ -34,9 +34,7 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 - JavaScript
 - React.js
-- Styled components
-- Typescript.js
-- Next.js
+
 
 ## My recent work :man_technologist:
 
