@@ -24,11 +24,10 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 ## My skills 📜
 
-- JavaScript ([B7web](https://alunos.b7web.com.br/media/certificates/certificado_6649703.jpg))
-- HTML, CSS
-  ([Free Code Camp Certified](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design))
-- WordPress
-  ([Udemy Certified](http://ude.my/UC-9085ec6b-7c92-4779-9f86-b32f16c2a98f))
+- JavaScript ([B7web Certified](https://alunos.b7web.com.br/media/certificates/certificado_6649703.jpg))
+- HTML, CSS and Javascript
+  ([Udemy Certified](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design))
+
 
 ## What I'm currently learning 📚
 
@@ -38,9 +37,7 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 ## My recent work :man_technologist:
 
-- [Tractian Challenger](https://github.com/Thiago-spart/tractian-challenger)
-- [Seazone Challenger](https://github.com/Thiago-spart/seazone-challenger)
-- [dt.money](https://github.com/Thiago-spart/dtmoney)
+
 
 </details>
 
