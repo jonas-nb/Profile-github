@@ -26,7 +26,7 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 - JavaScript ([B7web Certified](https://alunos.b7web.com.br/media/certificates/certificado_6649703.jpg))
 - HTML, CSS and Javascript
-  ([Udemy Certified](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design))
+  ([Udemy Certified](https://www.udemy.com/certificate/UC-a1f585f3-925d-42b9-982d-4fd11578cc57/))
 
 
 ## What I'm currently learning 📚
